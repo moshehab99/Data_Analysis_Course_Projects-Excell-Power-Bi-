@@ -6,7 +6,7 @@
 Customer Details: Demographic and membership information
 
 Sales Data: Transaction records across multiple months)
-- [File Contents](#Customer_details: Contains customer information including:
+- [File Contents](# Customer_details: Contains customer information including:
 
 Customer ID
 
